@@ -15,8 +15,11 @@ Instance generators are in *-gen directories.
 Generators for Sliding-tile puzzle and grid-pathfinding are coded by the PBNF authors.
 Yuu Jinnai coded TSP and MSA.
 
-# Modified at 2016 by Yuu Jinnai
-# Copyright © 2014 the PBNF Authors
+
+# LICENSE
+
+Modified at 2016 by Yuu Jinnai
+Copyright © 2014 the PBNF Authors
 
 This is the source code for PBNF and the algorithms described in:
 Ethan Burns, Sofia Lemons, Wheeler Ruml and Rong Zhou, "Best-First
